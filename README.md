@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dee-lite
 - 👀 I am a Product Manager with Interest in Business Analytics
-- 🌱 I’m currently learning Product Management
 - 💞️ I’m looking to collaborate on User-centred products.
 - 📫 How to reach me - damilolavicdavids@gmail.com
 
