@@ -1,6 +1,6 @@
 # 👋 Hi, I am Damilola Davids
 
-🎯 **Product Manager | Scrum Master | Cloud-Curious | Ex-Tammwe, Ex-SystemSpecs**  
+🎯 **Product Manager | Scrum Master | Cloud-Curious   
 🌍 Passionate about building user-centered products for Africa and beyond  
 📍 Based in Nigeria | Working remote 
 
