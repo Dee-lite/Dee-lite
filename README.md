@@ -79,7 +79,7 @@ Asana • Jira • Trello • ClickUp • Miro • Figma • Notion • Confluen
 
 ---
 
-## 📫 Connect with me
+## 📫 Get in Touch
 
   📧 [damilolavicdavids@gmail.com](damilolavicdavids@gmail.com)
   
