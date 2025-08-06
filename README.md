@@ -38,6 +38,7 @@ Designed and deployed a production-like online banking platform using modern clo
 - Fully automated pipeline from GitHub to live infrastructure using IaC and GitOps  
 
 🎥 [Demo Walkthrough 1](https://vimeo.com/1101375944?share=copy) • [Demo Walkthrough 2](https://vimeo.com/1107697676?share=copy)
+
 🔗 [Project Documentation](https://damilola-davids.notion.site/Capstone-Project-Documentation-Deploying-a-Bank-Application-223f8d103fbc8078be5ac64eedd1954a?pvs=74)
 
 ---
